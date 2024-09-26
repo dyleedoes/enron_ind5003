@@ -2,7 +2,7 @@
 The Enron Email corpus consists of emails from 150 users, mostly senior management. It was made public during an investigation into the Enron scandal. Your task is to carry out an unsupervised learning analysis of the Enron corpus.
 
 
-* 2 Submission Delieverables *
+# 2 Submission Delieverables 
 The following are the submissions for the group project:
 1. Video presentation
 • A 10-minute video to be uploaded to a sharepoint folder (to be created closer to the submission
@@ -20,7 +20,7 @@ pendices. The font size cannot be smaller than 10 Times New Roman.
 combination of both.
 The deadline for all the submissions is 4th Nov 2359hrs.
 
-* 3 Grading (50%) *
+# 3 Grading (50%)
 The total marks for the project is 50% of your final grade. This is broken down into 40% for a common
 group grade, and 10% for an individual grade.
 3.1 Group grade (Total: 40%)
